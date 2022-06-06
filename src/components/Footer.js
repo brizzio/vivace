@@ -8,30 +8,30 @@ function Footer() {
   return (
     <StyledFooter>
         <Container>
-            <span>VIVACE</span>  
+            
             <Flex>
                 <ul>
                 <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua
+                <span>VIVACE</span> <br/> <br/>
+                Entre em contato conosco. Será um prazer poder colaborar nessa jornada.
                 </li>
-                <li>+1-543-123-4567</li>
-                <li>example@huddle.com</li>
+                <li>+55 11 98844-6266</li>
+                <li>central@vivace.com.br</li>
             </ul>
             <ul>
-                <li>About Us</li>
-                <li>What We Do</li>
+                <li>Sobre...</li>
+                <li>O que fazemos...</li>
                 <li>FAQ</li>
             </ul>
 
             <ul>
-                <li>Career</li>
-                <li>Blog</li>
-                <li>Contact Us</li>
+                <li>Trabalhe conosco...</li>
+                <li>Notícias</li>
+                <li>Siga-nos aqui...</li>
             </ul>
             <SocialIcons />
           </Flex>
-          <p>&copy; 2022 BRIZZIO. Todos os direitos reservados.</p>
+          <p>&copy; 2022 VIVACE. Todos os direitos reservados.</p>
         </Container>
     </StyledFooter>
   )

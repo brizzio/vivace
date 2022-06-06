@@ -11,7 +11,7 @@ export default function Header() {
           <Container>
               <Nav>
                   <div>
-                  <Logo src='./images/vivace.png'/>
+                  <Logo src="./images/vivace.png"/>
                   <span>Market Intelligence</span>
                   </div>
                   
