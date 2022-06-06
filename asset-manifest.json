@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/vivace/static/js/main.0e798ab5.js",
+    "static/js/787.92666b42.chunk.js": "/vivace/static/js/787.92666b42.chunk.js",
+    "index.html": "/vivace/index.html",
+    "main.0e798ab5.js.map": "/vivace/static/js/main.0e798ab5.js.map",
+    "787.92666b42.chunk.js.map": "/vivace/static/js/787.92666b42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0e798ab5.js"
+  ]
+}
