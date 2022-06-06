@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/vivace/static/js/main.0e798ab5.js",
-    "static/js/787.92666b42.chunk.js": "/vivace/static/js/787.92666b42.chunk.js",
+    "main.js": "/vivace/static/js/main.1367ec2b.js",
+    "static/js/787.cc2e2048.chunk.js": "/vivace/static/js/787.cc2e2048.chunk.js",
     "index.html": "/vivace/index.html",
-    "main.0e798ab5.js.map": "/vivace/static/js/main.0e798ab5.js.map",
-    "787.92666b42.chunk.js.map": "/vivace/static/js/787.92666b42.chunk.js.map"
+    "main.1367ec2b.js.map": "/vivace/static/js/main.1367ec2b.js.map",
+    "787.cc2e2048.chunk.js.map": "/vivace/static/js/787.cc2e2048.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.0e798ab5.js"
+    "static/js/main.1367ec2b.js"
   ]
 }
