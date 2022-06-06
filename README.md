@@ -2,6 +2,58 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Deploy to github
+
+1- change name and crete home page properties on package .json based on the repository name
+```
+
+"homepage":"http://gituser.github.io/repo-name",
+"name": "repo-name",
+
+```
+ans add the following scripts if they dont exists in package.jason
+
+```
+
+"predeploy":"npm run build",
+"deploy":"gh-pages -d build",
+
+```
+
+
+2- instal gh-pages dependencies
+
+### npm 
+```
+npm i gh-pages --save-dev
+
+```
+
+### yarn 
+```
+yarn add -D gh-pages 
+
+```
+3- push changes to github
+
+
+```
+git push -u origin main
+
+```
+
+4- run deploy script to publish react site to github pages
+
+
+```
+npm run deploy
+
+```
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
